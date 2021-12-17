@@ -1,6 +1,6 @@
   </a> <a href="https://www.instagram.com/peasubinusone/">
 <img
-src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/peasubinusone/"
+src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/peasubinusone/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 출처: https://byul91oh.tistory.com/213 [개발하는 감자 [: 개감]]
