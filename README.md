@@ -1,9 +1,7 @@
   </a> <a href="https://www.instagram.com/peasubinusone/">
 <img
 src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/peasubinusone/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009571883637)](https://www.facebook.com/profile.php?id=100009571883637)
+style="height : auto; margin-left : 10px; margin-right : 10px;"/> [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009571883637)](https://www.facebook.com/profile.php?id=100009571883637)
 
 - 👋 Hi, I’m @subinidus 안녕하세요~ 서수빈입니다. :3
 - 👀 저는 축구에 관심이 많아요 ㅎㅎ ヾ(•ω•`)o - The reds (which means fan of liverpool.)
