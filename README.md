@@ -39,21 +39,7 @@ I specialize in building systems that can "see" and "analyze" dynamic environmen
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-</div>
 
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **⚽ Football Player Tracking System** | **YOLO 기반 축구 선수 트래킹 및 분석 시스템**<br>영상에서 선수를 식별하고 움직임을 추적하여 데이터를 추출합니다. | `YOLO` `OpenCV` `Python` |
-| **🧊 3D Clustering Paper Implementation** | **3D 데이터 클러스터링 논문 구현**<br>복잡한 3D 공간 데이터를 분석하고 군집화하는 알고리즘 연구. | `Clustering` `Math` `Python` |
-| **🧠 AI Hybrid Clustering Engine** | **AI 기반 하이브리드 이미지 클러스터링 엔진**<br>SR(Super Resolution)과 CLIP 모델을 결합한 고도화된 엔진. | `SR` `CLIP` `K-Means` |
-
----
-
-<div align="center">
 
 ### 📊 GitHub Stats
 
