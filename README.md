@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Subin Seo
 
-### ⚽ Aspiring Sports Data Scientist & 👁️ Computer Vision Engineer
+### ⚽ Aspiring Sports Data Scientist & Computer Vision Engineer
 *"Turning raw movements into tactical insights through AI"*
 
 ---
@@ -25,7 +25,6 @@ I specialize in building systems that can "see" and "analyze" dynamic environmen
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
 **AI & Computer Vision**
