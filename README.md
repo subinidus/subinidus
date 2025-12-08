@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Subin Seo
 
-### ⚽ Aspiring Sports Data Scientist & Computer Vision Engineer
+### ⚽ Aspiring Data Scientist & Computer Vision Engineer
 *"Turning raw movements into tactical insights through AI"*
 
 ---
