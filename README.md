@@ -4,7 +4,8 @@
 
 ### ⚽ Aspiring Data Scientist & Computer Vision Engineer
 *"Turning raw movements into tactical insights through AI"*
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF_Download-blue?style=for-the-badge&logo=adobeacrobatreader)](./portfolio.pdf)
+
+[📄 View Portfolio (PDF)](./서수빈_포트폴리오.pdf)
 
 ---
 
