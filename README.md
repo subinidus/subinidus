@@ -19,7 +19,7 @@ I build machine learning models and training pipelines with Python and PyTorch.
 - **ACK 2026 (KIPS)** — First-author Cell-MSCA paper accepted for publication.
 - **ICCJ 2026** — **Best Poster Award** for [Patch-MSCA](https://github.com/subinidus/msca-carbon).
 - **KIIT Fall Conference 2025** — First-author proceedings paper on YOLO backbone features, **Bronze Award**.
-- **VOS memory transfer** — Conference manuscript submitted.
+- **IEIE Autumn Annual Conference 2026** — VOS memory transfer paper accepted.
 
 ### 💼 Experience & Education
 
